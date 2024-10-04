@@ -1,3 +1,7 @@
+
+<?php 
+include'cannet.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,14 +18,24 @@
     echo "My boat is " . $color . "<br>";*/
 
 //Creating (Declaring) PHP Variables
-$x = 5;
+/*$x = 5;
 $y = "John";
 
 echo $x;
 echo "<br>";
 echo $y;
 echo"<br>";
-echo 10+10
+echo 10+10*/
+
+$num=6;
+echo $num*4;
+echo"<br>";
+echo $num*5;
+echo"<br>";
+echo $num*6;
+echo"<br>";
+echo $num*7;
+
 
     ?>
 </body>
